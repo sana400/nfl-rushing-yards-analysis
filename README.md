@@ -1,2 +1,2 @@
 # nfl-rushing-yards-analysis
-graphed quarterback rushing yards for 20 starting quarterbacks for their college and NFL years
+graphed quarterback statistics for various starting quarterbacks over the 2020 and other seasons for their college and NFL years
