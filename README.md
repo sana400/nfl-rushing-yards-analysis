@@ -1,2 +1,2 @@
 # nfl-rushing-yards-analysis
-graphed quarterback statistics for various starting quarterbacks over the 2020 and other seasons for their college and NFL years
+A collection of various graphs, do files and data sets tracking various statistics of NFL quarterback players in their 2020 season as well as Big Ten teams. 
